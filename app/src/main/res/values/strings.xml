@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoListAppFire</string>
+    <string name="no_tasks_today" >No Tasks Today</string>
+    <string name="extended_fab_content_desc" >Floating Button</string>
+    <string name="btnAdd" >Add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_task" >New Task</string>
+    <string name="task" >Task</string>
+    <string name="description" >Description</string>
+    <string name="save" >Save</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blackColor">#000000</color>
+    <color name="blackLightColor">#2c2c2c</color>
+    <color name="blackDarkColor">#000000</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="whiteLightColor">#ffffff</color>
+    <color name="whiteDarkColor">#cccccc</color>
+    <color name="blackTextColor">#ffffff</color>
+    <color name="whiteTextColor">#000000</color>
+
+
+    // Dark Theme
+    <color name="d_bg">#1C1D21</color>
+    <color name="d_check_box">#25262C</color>
+    <color name="d_selection_bg">#373943</color>
+    <color name="d_delete_bg">#2E252C</color>
+    <color name="d_delete_font">#CD6264</color>
+    <color name="d_task_font">#777B82</color>
+
+
+
+    // Light Theme
+    <color name="l_bg">#FFFFFF</color>
+    <color name="l_check_box">#EEF0F2</color>
+    <color name="l_selection_bg">#FFFFFF</color>
+    <color name="l_delete_bg">#FCF0F0</color>
+    <color name="l_delete_font">#C45C74</color>
+    <color name="l_task_font">#7A7D80</color>
+    <color name="l_note">#FAF6E9</color>
+</resources>
